@@ -51,6 +51,7 @@ export class ProductService {
   }
   
   errorHandler(e: any): Observable<any> {
+    console.log(e)
     this.showMessage("Ocorreu um erro!", true);
     return EMPTY;
   }
