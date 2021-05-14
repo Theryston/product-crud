@@ -4,6 +4,8 @@
   <img src="https://ik.imagekit.io/Theryston/Screenshot_20210514-161905__1__Vcll3_Oqz.png">
 </div>
 
+[see an example](https://product-crud.vercel.app)
+
 ### 🔖 about
 this is a product management system, in which you can register, change and delete your store's products
 
